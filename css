@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(183, 150, 150);
+}
+
+Body{
+  background-image: url(san\ francisco.webp);
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+
+}
+h1 {
+  color: rgb(237, 196, 227);
+  margin-left: 20px;
+}
